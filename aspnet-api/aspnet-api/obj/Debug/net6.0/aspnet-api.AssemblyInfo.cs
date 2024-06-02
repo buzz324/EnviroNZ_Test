@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aspnet-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a888480787c7843eefcfab6aeefbdfd7a21b36c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ab3b1a9883fe310c70b19dc5e8f441f89d6c69d")]
 [assembly: System.Reflection.AssemblyProductAttribute("aspnet-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aspnet-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
